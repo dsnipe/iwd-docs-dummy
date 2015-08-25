@@ -1,0 +1,12 @@
+---
+- index
+- changes
+- getting-started
+- setup:
+    - install-straight
+    - install-straight-server
+- configuring:
+    - overview
+    - tips-and-tricks
+
+  
