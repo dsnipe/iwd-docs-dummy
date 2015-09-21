@@ -2,12 +2,13 @@
 
 Common text.
 
-<gear>
+<<- gear
 Install script on Github.
-</gear>
+Please read it!
+gear->>
 
 Some additional text.
 
-<straight-server>
+<<- straight-server
 Text related to Straight Server
-</straight-server
+straight-server->>
