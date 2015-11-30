@@ -5,9 +5,9 @@ en:
   - Getting Started: getting_started.md
   - setup:
       - install-straight:
-          - Basic: setup/isntall-straight/basic.md
+          - Basic: setup/install-straight/basic.md
           - Advanced: setup/install-straight/advanced.md
-      - Install Straight Server: /setup/install_straight-server.md
+      - Install Straight Server: setup/install_straight-server.md
   - configuring:
-      - Overview: overview.md
-      - Tips and Tricks: tips_and_tricks.md
+      - Overview: configuring/overview.md
+      - Tips and Tricks: configuring/tips_and_tricks.md
