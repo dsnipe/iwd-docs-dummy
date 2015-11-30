@@ -1,13 +1,13 @@
 ---
 en:
-  - index
-  - changes
-  - getting_started
+  - Index: index.md
+  - Changes: changes.md
+  - Getting Started: getting_started.md
   - setup:
       - install-straight:
-          - basic
-          - advanced
-      - install_straight-server
+          - Basic: setup/isntall-straight/basic.md
+          - Advanced: setup/install-straight/advanced.md
+      - Install Straight Server: /setup/install_straight-server.md
   - configuring:
-      - overview
-      - tips_and_tricks
+      - Overview: overview.md
+      - Tips and Tricks: tips_and_tricks.md
