@@ -1,5 +1,7 @@
 # Getting Started
 
+New changes
+
 Hello. This is test of _diff_.
 
 `http://localhost:3000`
